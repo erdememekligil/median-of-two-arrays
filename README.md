@@ -1,8 +1,4 @@
 # Median of two sorted lists
-Solution by Erdem Emekligil.
-[erdememekligil@gmail.com]
-
-https://github.com/erdememekligil/
 
 ## Solution
 The algorithm uses the logic behind the merge function of the merge sort. 
